@@ -97,4 +97,4 @@ This project is licensed under the MIT License. See [LICENSE](LICENSE) for more 
 
 ## Disclaimer
 
-The Educational Partnerships Idea Generator is provided "as is" without warranty of any kind, express or implied. The user assumes all responsibility for the use of the generator and the generated content. The authors and contributors are not responsible for any inaccuracies, errors, or omissions in the generated content or any consequences arising from the use of the content.
+
